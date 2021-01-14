@@ -1,0 +1,10 @@
+{
+    "name": "John",
+    "age": 30,
+    "address": {
+        "street" : "123 First Street",
+        "city" : "Houston",
+        "state" : "TX"
+    },
+    "shoppingList" : ["milk", "juice", "eggs", "bread"]
+}
